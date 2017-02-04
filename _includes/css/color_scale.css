@@ -161,7 +161,7 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: var(--white);
-    background: url({{site.url}}{{site.url}}/img/old_reeds_original.jpg) no-repeat bottom center scroll;
+    background: url({{site.url}}/img/old_reeds_original.jpg) no-repeat bottom center scroll;
     background-color: var(--white);
     -webkit-background-size: cover;
     -moz-background-size: cover;
