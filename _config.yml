@@ -1,8 +1,8 @@
 # Site settings
-title: Old Reeds Quartet
+title: Sax Au Fond
 email: your-email@domain.com
 url: https://awwerbro.github.io/kwartet_site
-description: "Op een oud riet moet je het leren."
+description: Harelbeeks saxofoonkwartet
 
 # Footer settings
 footer: Andreas Werbrouck
@@ -23,3 +23,5 @@ social:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+gems:
