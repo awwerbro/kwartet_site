@@ -291,7 +291,7 @@ a:focus {
     height: 100%;
     padding: 200px 200px;
     color: var(--white);
-    background: url({{site.url}}/img/old_reeds_original.jpg) no-repeat center center scroll;
+    background: url({{site.url}}/img/old_reeds_bw.jpg) no-repeat center center scroll;
     background-color: var(--light-bg);
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -304,12 +304,18 @@ a:focus {
     height: 100%;
     padding: 200px 200px;
     color: var(--white);
-    background: url({{site.url}}/img/old_reeds_original.jpg) no-repeat center center scroll;
+    background: url({{site.url}}/img/old_reeds_bw.jpg) no-repeat center center scroll;
     background-color: var(--light-bg);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+}
+
+.scala-section {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  height: 100%;
 }
 
 /*vul aan !*/

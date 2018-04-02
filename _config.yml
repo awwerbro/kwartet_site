@@ -1,7 +1,8 @@
 # Site settings
 title: Sax Au Fond
 email: your-email@domain.com
-url: https://awwerbro.github.io/kwartet_site
+#url: https://awwerbro.github.io/kwartet_site
+url: localhost:4000
 description: Harelbeeks saxofoonkwartet
 
 # Footer settings
