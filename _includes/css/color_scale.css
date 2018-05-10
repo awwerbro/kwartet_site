@@ -272,24 +272,25 @@ a:focus {
 }
 
 .content-section {
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     min-height: 100%;
 }
 
 .musician-section{
-  padding-bottom: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    min-height: 100%;
 }
 
 .musicians-section{
-  padding-top: 150px;
-  padding-bottom: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .listen-section {
     width: 100%;
     min-height: 100%;
-    padding: 200px 200px;
     color: var(--white);
     background: url({{site.url}}/img/old_reeds_bw.jpg) no-repeat center center scroll;
     background-color: var(--light-bg);
@@ -311,10 +312,9 @@ a:focus {
     -o-background-size: cover;
 }
 
-.scala-section {
-  padding-top: 100px;
-  padding-bottom: 100px;
-  min-height: 100%;
+.bjs-section {
+    width: 100%;
+    min-height: 100%;
 }
 
 .imgpad {
