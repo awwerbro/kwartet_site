@@ -302,7 +302,6 @@ a:focus {
 .contact-section {
     width: 100%;
     min-height: 100%;
-    padding: 200px 200px;
     color: var(--white);
     background: url({{site.url}}/img/old_reeds_bw.jpg) no-repeat center center scroll;
     background-color: var(--light-bg);
@@ -316,6 +315,10 @@ a:focus {
   padding-top: 100px;
   padding-bottom: 100px;
   min-height: 100%;
+}
+
+.imgpad {
+  padding-bottom: 20px;
 }
 
 /*vul aan !*/
